@@ -28,4 +28,4 @@ or
 
 * To use Jupyter Notebook inside virtual environment, install the new kernel:
 
-`jupyter kernel install --user --name=ml`
+`ipython kernel install --user --name=ml`
