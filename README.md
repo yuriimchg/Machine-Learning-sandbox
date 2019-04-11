@@ -1,5 +1,5 @@
 # Machine-Learning-sandbox
-Some machine learning notebooks.
+Some machine learning notebooks. This repo was created only for the purpose of studying machine learning
 
 ## How to use?
 
