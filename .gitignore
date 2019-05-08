@@ -5,3 +5,4 @@ aclImdb/
 *.csv
 *.pb
 data/
+ts/
