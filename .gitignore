@@ -1,8 +1,10 @@
 .ipynb_checkpoints
 */data/*
+.idea/
 *.tar.gz
 aclImdb/
 *.csv
 *.pb
 data/
 ts/
+venv/
