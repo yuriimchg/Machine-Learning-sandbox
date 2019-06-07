@@ -1,0 +1,19 @@
+CNNs
+data
+fastai
+images
+Notes
+ODS
+README.md
+simple neural nets
+survival_analysis
+test.txt
+text_classification
+tf_presentation
+tf_requirements.txt
+time_series
+ts
+ts_requirements.txt
+udemy_course
+upd_git.sh
+venv
